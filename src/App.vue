@@ -4,11 +4,12 @@
         <h1 class="display-5">SVG Interactivity</h1>
         <p>
             Las imágenes SVG pueden adaptarse a las acciones del usuario. SVG admite eventos de puntero, eventos de teclado y eventos de documentos. Considere el siguiente ejemplo.</p>
-    <svgContainer  class="mt-5"/>
+        <svgContainer class="mt-5" />
 
     </div>
 </div>
 </template>
+
 <script>
 import svgContainer from './components/svgContainer.vue'
 export default {
@@ -19,3 +20,6 @@ export default {
 }
 </script>
  
+<style>
+@import './assets/style.css';
+</style>

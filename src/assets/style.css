@@ -1,0 +1,66 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500&display=swap');
+
+.background-svg {
+    fill: #363636;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #363636;
+    font-weight: 500;
+}
+
+.st0 {
+    fill: #363636;
+    stroke: white;
+    stroke-width: 2;
+    stroke-dasharray: 8, 8.5 !important;
+}
+
+.dotted {
+    stroke-dasharray: 8, 8.5 !important;
+}
+
+.textos {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    fill: white;
+    font-size: 15px;
+}
+
+.hover-element {
+    -webkit-transition-duration: 0.31s;
+    /* Safari */
+    transition-duration: 0.31s;
+}
+
+.hover-element:hover {
+    fill: #b70020;
+    cursor: pointer;
+}
+
+.selected {
+    fill: #b70020;
+}
+
+.text-danger {
+    color: #b70020;
+}
+
+svg text {
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+/Edge */
+    user-select: none;
+    /* Standard */
+    overflow: hidden;
+    pointer-events: none;
+}
