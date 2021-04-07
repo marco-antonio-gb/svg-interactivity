@@ -1,0 +1,239 @@
+<template>
+<div class="row">
+        <div class="col-md-6 text-left">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="font-weight-bold">MEATOLOGY: <span class="text-danger"> {{id_selected}}</span></h2>
+                    <p class="text-secondary">{{desc_selected}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 844 485" style="enable-background:new 0 0 844 485;" xml:space="preserve">
+                <g id="Capa_4">
+                    <g id="EMPTY">
+                        <path class="st0" d="M711.8,81.3c5.6,3,12.4,4.6,19.3,5.3c6.5-7.4-0.3-10.4,0,0c19,2,39.3-2.5,39.3-2.5l33.9-3.4
+c-0.7-3.1-1.4-5.7-1.9-7.8c-4.2-18.1-16.7-27.9-23.7-30.7c-7-2.8-37.6-7-37.6-7s-23.9,2.1-58.1,4.9
+C684.2,51.1,690.1,66.9,711.8,81.3z" />
+                        <path class="st0" d="M311.6,364.4c0,0,8.4,13.9,22.3,9.8c13.1-3.9,22.4-70.1,23.6-78.6c-16.7,5.3-35.5,15.3-48.3,22.9
+C315.2,326.6,311.6,364.4,311.6,364.4z" />
+                        <path class="st0" d="M816.4,307.2c-2.7-6.7-4.8-13.1-6.6-19.1c-12.6,3.3-37.2,11.9-52.8,31c17.1,19.6,28.8,49.4,28.8,49.4
+S823.3,325.3,816.4,307.2z" />
+                    </g>
+                    <path id="FONDO" class="background-svg" d="M793.4,485c-9.3,0-18.6,0-27.9,0c-9.3-2.7-11-10.4-4.7-18.1c3.2-4,6-9,7.3-13.9
+c3.4-13,6.4-26.2,8.7-39.4c1.5-8.6,2.1-17.4,2.1-26.2c-0.1-19-10.8-34-20.1-49.5c-1.6-2.6-3.8-4.9-6.6-8.5
+c-16.5,27.4-32.5,53.5-48,80c-8.5,14.6-16.2,29.7-23.9,44.8c-5.2,10.2-12.5,17.7-24.2,18.6c-6.3,0.5-12.9-0.8-19.2-2.1
+c-9.7-2-11-6-4.8-14c5-6.4,11.2-11.9,15.7-18.5c6.3-9.1,11.3-19.2,17.5-28.5c10.5-15.8,16.5-33.6,16.2-51.8
+c-0.5-29-4.6-57.9-7.3-87.4c-2.6,1.6-5,2.9-7.3,4.3c-24.3,15.1-48.5,30.2-76.1,38.7c-4.1,1.3-7.6,5-11.1,8
+c-2.4,2.1-4.1,5.1-6.4,7.3c-4.3,4-8.4,3.8-10.8-1.3c-3.2-6.9-8.8-9.8-15.4-11.8c-14.3-4.1-28.6-8-42.8-12.4
+c-22.7-7.1-46.5-5.6-69.4-10.1c-16.9-3.3-32.7-0.8-48.7,3.3c-16.8,4.4-16.8,4.5-21.3,21.3c-0.7,2.5-1.5,4.9-2.1,7.3
+c-5.1,19.2-13.7,37.6-13.1,58.1c0.7,21.6,0.7,43.2,1.4,64.7c0.4,11.7-3.2,16.9-14.7,17.3c-10.1,0.3-20.4-1-30.5-1.8
+c-4.3-0.3-5.2-3.1-4.4-6.9c1.6-7.5,3.4-15,4.5-22.5c1.8-13.1,5.2-26.4,4-39.2c-2.1-20.9-7.5-41.5-11.1-62.3
+c-0.8-4.7-2.3-6.1-7.1-5.7c-9.5,0.9-17-2.5-22.1-11.4c-4.7-8.2-12.3-13.3-20.4-18.3c-19.8-12.4-38.6-25.7-43-51.6
+c-2.2-12.7-4.6-26.5-11.2-37c-13.9-21.9-30.6-42.2-55-53.8c-3.3-1.5-8.1-2.4-11.2-1.2c-22.8,9-45.8,4.4-68.8,2.1
+c-6.4-0.6-13-1-19.2,0.2c-13.9,2.7-26-2.4-32.8-15.1c-0.8-1.5-2.5-2.7-3.9-3.8c-4.7-3.8-5.6-10.7-1.1-14.4
+c14.5-11.7,23.4-27.4,32-43.4c1.5-2.8,3.2-5.9,5.6-7.8c4.1-3.2,4.6-6.8,4.2-11.6c-0.3-3.3,0.6-7.5,2.5-10
+c6.6-8.4,12.9-17.6,21.4-23.7c6.7-4.8,8.8-10,9.9-17c0-0.3,0.7-0.5,1.4-1c1,0.6,2.4,1.1,3.1,2c3.9,5.6,7.5,4.3,11-0.3
+c1-1.3,2.1-2.5,3.1-3.8c6-7.2,7.8-7.6,16-3.4c2.4,1.3,4.5,3.3,6.9,4.7c3.6,2,7.2,4.7,11,5.1c17.1,1.8,34.2,2.9,50.9-3.3
+c8.2-3.1,16.8-5.2,25.4-7.3c4.7-1.1,9.8-2.3,14.4-1.4c42.3,8.3,84.6,16.8,126.8,25.8c27.9,5.9,55.3,14.1,84.4,12.8
+c49.9-2.2,99.9-2.5,149.6-6c54.2-3.9,108.2-10.3,162.2-16.2c21.2-2.3,40.8,1.4,58.8,12.1c5,2.9,10.2,8.4,11.6,13.8
+c10.1,37.4,15.2,75.4,12.2,114.4c-1.9,25.6-3.5,51.3,3.4,76.8c6.9,25.5,4.5,52.5,12,78.3c3.9,13.4-2,20.5-14.8,25.3
+c-4.6,1.7-7.1,4.3-7.4,9.6c-1,17.6-2.5,35.2-3.8,52.8c-1,13.4-2,26.8-3,40.2c-0.7,9.2-1.7,18.5-2,27.7c-0.3,9.4-5.8,13.6-14,15.7
+C796.4,483.9,794.9,484.5,793.4,485z" />
+                </g>
+                <g id="Capa_2">
+                    <g id="CHUCK" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M318.6,180.3c22.3,0,32.1,4.2,32.1,4.2s-2.8,4.2,25.1,2.8c4.8-0.2,12.2-0.9,21.2-1.7
+C379.6,114,323.6,55.2,302,34.8c-2.8-0.5-4.4-0.8-4.4-0.8s-32.8-16-59.3-16c-26.5,0-41.8,29.3-41.8,29.3s-30.7,47.4-34.9,53
+c-4.2,5.6-11.2,48.8-11.2,48.8c45.2,22.9,60.2,76.8,66.4,100C218.2,221.5,235.4,183.8,318.6,180.3z" />
+                        <text transform="matrix(1 0 0 1 226.8516 121.655)" class="textos">CHUCK</text>
+                    </g>
+                    <g id="RIB" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M396.9,185.7c37.3-3.3,102.7-10,132.1-7.4c-3.7-36.4-17.1-78.8-48.8-124.8c-0.4,0-0.9,0-1.3,0
+C413.9,54.7,322.8,38.6,302,34.8C323.6,55.2,379.6,114,396.9,185.7z" />
+                        <text transform="matrix(1 0 0 1 430.4229 121.655)" class="textos">RIB</text>
+                    </g>
+                    <g id="LOIN" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M540.3,180.3c22.3,8.4,50.2,22.3,61.4,32.1c11.2,9.8,15.3,16.7,27.9,20.9s23.7-4.2,41.8,4.2
+c8.4,3.9,11.4,11.6,12.2,18.8c45.2-65,48.6-137.8,47.5-169.7c-6.9-0.7-13.7-2.3-19.3-5.3c-21.7-14.4-27.6-30.3-28.8-41.1
+c-61.1,5-154.8,12.2-202.8,13.2c31.7,46.1,45.1,88.5,48.8,124.8C533.8,178.7,537.7,179.4,540.3,180.3z" />
+                        <text transform="matrix(1 0 0 1 601.5146 133.1369)" class="textos">LOIN</text>
+                    </g>
+                    <g id="ROUND" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M809.7,288.1c-10.5-35.3-7.1-60.7,2.5-95.2c9.9-35.9-2.1-88.1-7.9-112.1l-33.9,3.4c0,0-20.2,4.5-39.3,2.5
+c1.1,31.9-2.3,104.7-47.5,169.7c0.2,1.4,0.2,2.7,0.3,4c43.7,2.5,59.5,44.1,71.2,56.7c0.6,0.7,1.3,1.4,1.9,2.1
+C772.5,300,797.1,291.4,809.7,288.1z" />
+                        <text transform="matrix(1 0 0 1 730.7773 212.696)" class="textos">ROUND</text>
+                    </g>
+                    <g id="FLANK" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M671.4,237.5c-18.1-8.4-29.3,0-41.8-4.2s-16.7-11.2-27.9-20.9c-11.2-9.8-39-23.7-61.4-32.1
+c-2.6-1-6.4-1.6-11.2-2.1c6,59.2-13.9,102.3-23.2,118.8c29.1,9.2,56.7,16.1,76.3,6c43.2-32.3,74.9-43.2,98.7-42.8
+c0.9-1.3,1.9-2.6,2.8-3.9C682.7,249.1,679.7,241.4,671.4,237.5z" />
+                        <text transform="matrix(1 0 0 1 551.8105 260.9235)" class="textos">FLANK</text>
+                    </g>
+                    <g id="BRISKET" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M396.9,185.7c-9,0.8-16.4,1.4-21.2,1.7c-27.9,1.4-25.1-2.8-25.1-2.8s-9.8-4.2-32.1-4.2
+c-83.2,3.5-100.4,41.1-101.7,68.6c1.2,4.4,2,7.7,2.7,9.4c4.2,11.2,27.9,25.1,40.4,33.5s7,8.4,12.5,18.1c5.6,9.8,26.5,4.2,34.9,7
+c0.7,0.2,1.2,0.7,1.8,1.4c12.9-7.5,31.6-17.6,48.3-22.9c0.1-0.6,0.1-0.9,0.1-0.9l33.7-10C404.6,250.6,404.5,216.9,396.9,185.7z" />
+                        <text transform="matrix(1 0 0 1 280 249.113)" class="textos">BRISKET</text>
+                    </g>
+                    <g id="PLATE" v-on:click="selectStand">
+                        <path class="st0 hover-element" d="M529,178.3c-29.4-2.6-94.8,4-132.1,7.4c7.6,31.3,7.7,65-5.6,99l4-1.2c29.6-15.2,71.5,1.2,110.5,13.5
+C515.1,280.6,535,237.5,529,178.3z" />
+                        <text transform="matrix(1 0 0 1 437.5586 237.9587)" class="textos">PLATE</text>
+                    </g>
+                </g>
+            </svg>
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'svgContainer',
+    data() {
+        return {
+            id_selected: '',
+            desc_selected: '',
+            items_select: [],
+            products: [{
+                    id: "CHUCK",
+                    description: `The chuck primal is located in the forequarter and is divided into two main groups. This includes the arm, which includes the shoulder, and the blade. There is a large amount of connective tissue in this area and the muscles are well used. This results in cuts that are very beefy and flavorful, but can be tough. This is where the beef for pot roast and stew is often sourced.
+Although the chuck is associated with tough cuts for slow cooking, there are notable exceptions you'll find at Snake River Farms. These include the flat iron steak and teres major. Meat scientists determined the flat iron is the second most tender steak after the tenderloin. The teres major has a rich beef flavor and natural tenderness. Both of these require a skillful butcher to properly extract them from the chuck.`
+                },
+                {
+                    id: "RIB",
+                    description: `The rib primal is the source of premium steaks and roasts including ribeyes, tomahawks and prime rib. It's located at the top part of the animal, specifically the section between the sixth and twelth ribs. The beef from this area is referred to as the "middle meat" due to its central location and is prized by restaurant patrons and retail customers. The beef from this area has a high level of both intramuscular and kernel fat which results in flavorful and juicy cuts that are naturally tender. Dry heat techniques are best used to prepare rib primal cuts.`
+                },
+                {
+                    id: "LOIN",
+                    description: `The loin primal is where a high percentage of premium cuts are sourced. This primal is divided into the short loin and sirloin. The tenderloin is also located in the loin primal. The short loin is where t-bone, Porterhouse and strip steaks are cut. The tenderloin, where we get filets mignons, is part of the short loin and extends into the sirloin. If the tenderloin is removed, it's not possible to cut t-bones and Porterhouse steaks since both of these steaks include a section of the tenderloin muscle. The sirloin is located toward the backside of the animal. Sirloin steaks, the tri-tip, picanha and bavette are all located in the sirloin.`
+                },
+                {
+                    id: "ROUND",
+                    description: `The round is the largest primal weighing in the 100 pound range. This includes the rump and hind leg which are muscles used for movement. This makes the cuts from this primal lean, but not tender. The beef from the round is used for slow cooking cuts. This is where the half round corned beef is sourced.`
+                },
+                {
+                    id: "PLATE",
+                    description: "The plate primal is located directly under the rib primal and typically contains four ribs. This section has a higher fat content which imparts a large amount of flavor. The plate is home to the large plate short ribs and outside skirt steak."
+                },
+                {
+                    id: "BRISKET",
+                    description: "The brisket primal is, of course, where briskets are located. Some butchers think of the entire underside of beef, including the brisket, flank and plate as one big primal. The brisket comes from the lower chest, just below the chuck. This part of the body carries a high percentage of weight which makes it well used and tough. Slow cooking is required to break down and tenderlize the brisket."
+                },
+                {
+                    id: "FLANK",
+                    description: "The flank primal is located just below the rib end portion of the loin primal. Cuts from the flank are lean and have a deep beef flavor. It is where the flank steak is found. "
+                },
+            ]
+        }
+    },
+    mounted() {
+        this.setInitialClass("CHUCK")
+    },
+    methods: {
+        selectStand(event) {
+            const id = event.currentTarget.id;
+            const path = event.currentTarget.querySelector("path")
+            this.removeAllClass()
+            this.addClass(path)
+            this.setItem(id)
+        },
+        setItem(ID) {
+            this.products.map(res => {
+                if (res.id === ID) {
+                    this.id_selected = res.id
+                    this.desc_selected = res.description
+                }
+            })
+        },
+        addClass(path) {
+            if (path.classList.contains("selected")) {
+                path.classList.remove("selected");
+            } else {
+                path.classList.add("selected");
+            }
+        },
+        removeAllClass() {
+            var elems = document.querySelectorAll("path");
+            [].forEach.call(elems, function (el) {
+                el.classList.remove("selected");
+            });
+        },
+        setInitialClass(ID) {
+            var item = document.getElementById(ID).getElementsByTagName('path')[0];
+            item.classList.add("selected")
+            this.setItem(ID)
+        }
+    },
+}
+</script>
+
+<style>
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500&display=swap');
+
+.background-svg {
+    fill: #363636;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #363636;
+    font-weight: 500;
+}
+
+.st0 {
+    fill: #363636;
+    stroke: white;
+    stroke-width: 2;
+    stroke-dasharray: 8, 8.5 !important;
+}
+
+.dotted {
+    stroke-dasharray: 8, 8.5 !important;
+}
+
+.textos {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    fill: white;
+    font-size: 15px;
+}
+
+.hover-element {
+    -webkit-transition-duration: 0.31s;
+    /* Safari */
+    transition-duration: 0.31s;
+}
+
+.hover-element:hover {
+    fill: #b70020;
+    cursor: pointer;
+}
+
+.selected {
+    fill: #b70020;
+}
+
+.text-danger {
+    color: #b70020;
+}
+
+svg text {
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+/Edge */
+    user-select: none;
+    /* Standard */
+    overflow: hidden;
+    pointer-events: none;
+}
+</style>

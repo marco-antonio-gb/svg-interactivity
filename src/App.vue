@@ -1,28 +1,21 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+<div id="app">
+    <div class="container text-center p-2">
+        <h1 class="display-5">SVG Interactivity</h1>
+        <p>
+            Las imágenes SVG pueden adaptarse a las acciones del usuario. SVG admite eventos de puntero, eventos de teclado y eventos de documentos. Considere el siguiente ejemplo.</p>
+    <svgContainer  class="mt-5"/>
+
+    </div>
+</div>
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import svgContainer from './components/svgContainer.vue'
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
+    name: 'App',
+    components: {
+        svgContainer
+    }
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+ 
